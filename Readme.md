@@ -1,0 +1,1 @@
+# DORA - Document-Oriented Retrieval Assistant
